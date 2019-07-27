@@ -18,6 +18,7 @@ public class Application {
 		System.out.println("Starting spring boot app");
 		SpringApplication.run(Application.class, args);
 		System.out.println(";das';dasd");
+        System.out.println("test");
 	}
 
 
